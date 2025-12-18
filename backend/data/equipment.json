@@ -1,0 +1,16 @@
+[
+  {
+    "id": "447f5a89-135a-49ed-9865-975b61a335d7",
+    "name": "pump",
+    "type": "Machine",
+    "status": "Under Maintenance",
+    "lastCleaned": "2025-12-18"
+  },
+  {
+    "id": "b791053b-bbdc-4ba5-8899-3cf87a600153",
+    "name": "u",
+    "type": "Machine",
+    "status": "Active",
+    "lastCleaned": "2025-12-11"
+  }
+]
